@@ -40,7 +40,7 @@
                                             <constraint firstAttribute="height" constant="32" id="ofa-sa-E6g"/>
                                             <constraint firstAttribute="width" constant="71" id="rdY-N3-gf5"/>
                                         </constraints>
-                                        <state key="normal" title="smily">
+                                        <state key="normal" title="smilies">
                                             <color key="titleColor" red="0.62352941179999999" green="0.50980392159999999" blue="0.20392156859999999" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
                                         <connections>
@@ -65,7 +65,7 @@
                                             <constraint firstAttribute="width" constant="60" id="PVS-eo-En4"/>
                                             <constraint firstAttribute="height" constant="30" id="gKW-gi-H8o"/>
                                         </constraints>
-                                        <state key="normal" title="Marge">
+                                        <state key="normal" title="Merge">
                                             <color key="titleColor" red="0.62352941179999999" green="0.50980392159999999" blue="0.20392156859999999" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
                                         <connections>
